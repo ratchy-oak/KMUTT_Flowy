@@ -1,0 +1,8 @@
+# Derived from main.py imports; versions have not been runtime-tested.
+sounddevice
+pyserial
+google-generativeai
+vosk
+gTTS
+pygame
+numpy
